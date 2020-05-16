@@ -1,0 +1,9 @@
+Fandango API 
+
+username: sonoroushail	
+
+email" ian.edwards@uconn.edu
+
+Password: L0u81W@72ibQ
+
+Request URI: http://api.fandango.com/v1/?op=moviesbycitystatesearch&city=San+Francisco&state=CA&apikey=+ap3z95mf3xfs66xq4htrjr6j&sig=9c863ca457b77c33beed5737d345e1671acb27508e5823f28ba6bea15e3194a3
